@@ -1,6 +1,0 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
-    <!-- Debug-build-only: required by Flutter's dev tooling (hot reload / VM
-         service). This manifest is merged ONLY into debug builds; the
-         release APK you actually install has no internet permission. -->
-    <uses-permission android:name="android.permission.INTERNET" />
-</manifest>
